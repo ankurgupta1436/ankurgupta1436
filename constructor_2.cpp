@@ -15,6 +15,5 @@ int main(){
     //object creation atatically
     Hero ramesh(10);
     cout<<"Address of ramesh is :"<<&ramesh<<endl;
-    
     return 0;
 }
